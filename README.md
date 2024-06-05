@@ -1,5 +1,9 @@
 ### Hi there 👋
-![ylvaldes's github stats](https://github-readme-stats.vercel.app/api?username=ylvaldes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img width=400 src='https://github-readme-stats-rho-beige-43.vercel.app/api?username=ylvaldes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=ylvaldes&theme=vue-dark&hide_border=true' />
+
+<img width=400 src='https://github-readme-stats-rho-beige-43.vercel.app/api/top-langs/?username=ylvaldes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 <!--
 **ylvaldes/ylvaldes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
